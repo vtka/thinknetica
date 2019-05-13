@@ -1,1 +1,1 @@
-# thinknetica
+# Мой репозиторий для задач курса Thinknetica
